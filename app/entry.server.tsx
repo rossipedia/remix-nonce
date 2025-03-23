@@ -61,7 +61,6 @@ function App({
         nonce={nonce}
         abortDelay={ABORT_DELAY}
       />
-      ;
     </NonceProvider>
   );
 }
